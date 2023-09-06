@@ -16,3 +16,17 @@ Cricket, shuttle (or badminton), Sudoku, and table tennis are all fantastic spor
 | shuttle | improve concentraction | 4 |
 | Sudoku | improve problem solving | 2 |
 | Table Tennis | Improve physical imbalance | 3 | 
+
+---
+
+# Quotes
+
+```If I have seen further, it is by standing on the shoulders of giants.```-*Sir Isaac Newton*
+
+
+```It is not the strongest of the species that survives, nor the most intelligent. It is the one most responsive to change.```-*Charles Darwin*
+
+
+
+
+
