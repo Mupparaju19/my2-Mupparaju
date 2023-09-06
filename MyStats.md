@@ -26,7 +26,23 @@ Cricket, shuttle (or badminton), Sudoku, and table tennis are all fantastic spor
 
 ```It is not the strongest of the species that survives, nor the most intelligent. It is the one most responsive to change.```-*Charles Darwin*
 
+---
 
+# CodeFencing
+
+```In a CSS print stylesheet, can I display an absolute URL when the href in the HTML is relative?```
+ <https://stackoverflow.com/questions/54713450/in-a-css-print-stylesheet-can-i-display-an-absolute-url-when-the-href-in-the-ht>
+
+```
+ @media print {
+  a::after{
+    content: " (" attr(href) ") ";
+  }
+}
+```
+
+
+Code Link<https://css-tricks.com/snippets/css/print-url-after-links/>
 
 
 
