@@ -13,4 +13,5 @@ My favourite vacation spot is Kerala as it has many beautiful **places** and als
 * biryani
 * kichidhi
 * curd rice 
+(Add my stats link )[https://github.com/Mupparaju19/my2-Mupparaju/blob/main/MyStats.md]
 
