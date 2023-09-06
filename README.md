@@ -10,4 +10,7 @@ My favourite vacation spot is Kerala as it has many beautiful **places** and als
 1. travelling
 2. spending time with my family 
 3. watching movies 
-   
+* biryani
+* kichidhi
+* curd rice 
+
